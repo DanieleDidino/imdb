@@ -1,0 +1,7 @@
+.git/
+.ipynb_checkpoints/
+.venv_imdb/
+best_model_hp_tunig_1/
+best_model_hp_tunig_sa/
+dir_tuner/
+my_logs_1/
